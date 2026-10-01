@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SimpleExcel</id>
+    <version>1.0.0</version>
+    <authors>SimpleExcel Contributors</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <readme>README.md</readme>
+    <description>Lightweight XLSX reader and writer for .NET backed by Open XML SDK.</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="DocumentFormat.OpenXml" version="3.3.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\source\SimpleExcel\src\SimpleExcel\bin\Release\net8.0\SimpleExcel.dll" target="lib\net8.0\SimpleExcel.dll" />
+    <file src="D:\source\SimpleExcel\README.md" target="\README.md" />
+  </files>
+</package>

@@ -1,0 +1,6 @@
+D:\source\SimpleExcel\src\SimpleExcel\bin\Release\net8.0\publish\SimpleExcel.dll
+D:\source\SimpleExcel\src\SimpleExcel\bin\Release\net8.0\publish\SimpleExcel.deps.json
+D:\source\SimpleExcel\src\SimpleExcel\bin\Release\net8.0\publish\SimpleExcel.pdb
+D:\source\SimpleExcel\src\SimpleExcel\bin\Release\net8.0\publish\DocumentFormat.OpenXml.dll
+D:\source\SimpleExcel\src\SimpleExcel\bin\Release\net8.0\publish\DocumentFormat.OpenXml.Framework.dll
+D:\source\SimpleExcel\src\SimpleExcel\bin\Release\net8.0\publish\System.IO.Packaging.dll

@@ -1,0 +1,12 @@
+D:\source\SimpleExcel\src\SimpleExcel\bin\Release\net8.0\SimpleExcel.deps.json
+D:\source\SimpleExcel\src\SimpleExcel\bin\Release\net8.0\SimpleExcel.dll
+D:\source\SimpleExcel\src\SimpleExcel\bin\Release\net8.0\SimpleExcel.pdb
+D:\source\SimpleExcel\src\SimpleExcel\obj\Release\net8.0\SimpleExcel.csproj.AssemblyReference.cache
+D:\source\SimpleExcel\src\SimpleExcel\obj\Release\net8.0\SimpleExcel.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\SimpleExcel\src\SimpleExcel\obj\Release\net8.0\SimpleExcel.AssemblyInfoInputs.cache
+D:\source\SimpleExcel\src\SimpleExcel\obj\Release\net8.0\SimpleExcel.AssemblyInfo.cs
+D:\source\SimpleExcel\src\SimpleExcel\obj\Release\net8.0\SimpleExcel.csproj.CoreCompileInputs.cache
+D:\source\SimpleExcel\src\SimpleExcel\obj\Release\net8.0\SimpleExcel.dll
+D:\source\SimpleExcel\src\SimpleExcel\obj\Release\net8.0\refint\SimpleExcel.dll
+D:\source\SimpleExcel\src\SimpleExcel\obj\Release\net8.0\SimpleExcel.pdb
+D:\source\SimpleExcel\src\SimpleExcel\obj\Release\net8.0\ref\SimpleExcel.dll
